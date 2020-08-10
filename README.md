@@ -1,0 +1,1 @@
+# A-Fuzzy-Rule-Based-Compartmental-Modeling-for-SARS-CoV-2
